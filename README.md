@@ -1,4 +1,4 @@
-# SEDS Lab 3: Object-Oriented Programming and Python Packaging
+# SEDS Lab 3: OOP and Python Packaging
 
 This repository contains the completed assignments and refactored code for SEDS Lab 3. The project demonstrates core software engineering principles in Python, transitioning from foundational script writing in Jupyter Notebooks to robust, structured software packages.
 
